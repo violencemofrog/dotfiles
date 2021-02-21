@@ -56,3 +56,12 @@
 *   光标：Sweet-cursors
 *   SDDM：Sweet
 *   Konsole颜色：Sweet
+
+## Jypyter Notebook
+
+![](./Pictures/screenshot/jupyter.png)
+```shell
+jt -t oceans16 -f firacode -fs 140 -altp -tfs 13 -nfs 115 -ofs 14 -cellw 80% -T
+```
+
+需先运行`pip install jupyterthemes`
