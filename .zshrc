@@ -115,7 +115,7 @@ export https_proxy=http://127.0.0.1:12333
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-alias neofetch="neofetch --ascii /home/chou/.neofetch_logo | lolcat"
+alias neofetch="neofetch --ascii /home/chou/.config/neofetch/logo | lolcat"
 alias screenfetch="screenfetch | lolcat"
 alias ra="ranger"
 alias tty-clock="tty-clock -c -s -B -C 4 "
