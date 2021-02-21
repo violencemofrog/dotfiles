@@ -13,3 +13,11 @@
 
 *   使用[oh my zsh](https://github.com/ohmyzsh/ohmyzsh)
 *   主题为[powerlevel10k](https://github.com/romkatv/powerlevel10k)
+
+## [neofetch](https://github.com/violencemofrog/dotfiles/tree/main/.config/neofetch)
+
+![](./Pictures/screenshot/neofetch.png)
+
+*   更多设置见[neofetch](https://github.com/dylanaraps/neofetch)
+*   ascii字符画见[twitchquotes](https://www.twitchquotes.com/copypastas/ascii-art)
+
