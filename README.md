@@ -21,3 +21,7 @@
 *   更多设置见[neofetch](https://github.com/dylanaraps/neofetch)
 *   ascii字符画见[twitchquotes](https://www.twitchquotes.com/copypastas/ascii-art)
 
+## [Vim](https://github.com/violencemofrog/dotfiles/blob/main/.vimrc)
+
+*   插件管理器为[vim-plug](https://github.com/junegunn/vim-plug)
+
