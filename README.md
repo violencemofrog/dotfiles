@@ -28,3 +28,13 @@
 ## [Vis](https://github.com/violencemofrog/dotfiles/tree/main/.config/vis)
 
 *   插件，配置和主题详见[Vis](https://github.com/martanne/vis)
+
+## Ranger
+
+![](./Pictures/screenshot/ranger1.png)
+
+![](./Pictures/screenshot/ranger2.png)
+
+*   更多配置详见[ranger](https://github.com/ranger/ranger)
+*   预览图像需要安装w3m，同时修改文件`rc.conf`中的`set preview_images False`为`set preview_images True`
+*   ranger图标为项目[ranger_devicons](https://github.com/alexanderjeurissen/ranger_devicons)，需要安装Nerd Font如nerd-fonts-source-code-pro，同时修改终端自体为Nerd Font的版本
