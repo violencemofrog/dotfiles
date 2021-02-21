@@ -25,3 +25,6 @@
 
 *   插件管理器为[vim-plug](https://github.com/junegunn/vim-plug)
 
+## [Vis](https://github.com/violencemofrog/dotfiles/tree/main/.config/vis)
+
+*   插件，配置和主题详见[Vis](https://github.com/martanne/vis)
